@@ -1,3 +1,3 @@
 # machine_learning_economics
 
-This repository contains lecture notes for a basic course on machine learning for economics, along with some example notebooks written in R and Python.
+This repository contains lecture notes for a basic course on machine learning for economics, along with some example notebooks written in R and Python.  This repository has been set up for https://mybinder.org/, which allows the user to open the notebooks in an executable environment with all dependencies already built.  The Binder for this repository is https://mybinder.org/v2/gh/sekhansen/machine_learning_economics/master.
